@@ -1,0 +1,16 @@
+[ignore]
+.*/node_modules/.*
+.*/node_modules/react-router-dom/.*
+.*/node_modules/enzyme/.*
+.*/node_modules/enzyme-adapter-react-16/.*
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+all=true
+
+[strict]
